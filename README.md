@@ -24,17 +24,6 @@ I'm a passionate Fullstack Developer with a strong focus on frontend development
 
 ---
 
-### 📈 Project Experience
-
-- **TMV Services CRM** – _Next.js, TypeScript, Formik, Yup_
-- **TMV Services Website** – _Webflow, Swiper, JavaScript_
-- **Arcanum VA Website** – _Webflow, Swiper, jQuery, Luxon_
-- **Firstgate Chat System** – _Next.js, TypeScript, Tailwind, SignalR_
-- **G&M Development Landing Page** – _Three.js, Swiper, JavaScript_
-- **Bexpedited TMS** – _React.js, MapTiler SDK, Formik, Yup_
-
----
-
 ### 🌟 Notable Achievements
 - Successfully implemented various projects, including CRM, chat, TMS, landing pages, and CMS systems.
 - Optimized development stacks, introduced static code analysis tools like Prettier and ESLint.
