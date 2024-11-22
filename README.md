@@ -8,9 +8,10 @@
 
 I'm a Fullstack Developer with a strong emphasis on frontend development and experience building various web applications, from CRM systems and chats to landing pages and CMS solutions. I focus on writing efficient code, using modern technologies, and improving my skills. I’m always learning and aim to create impactful, innovative solutions.
 
-**🌍 Based in:** Ternopil, Ukraine  
-**🎓 Education:** Fullstack Developer at GoIT (Feb 2023 – Dec 2023)  
-**📚 Currently Learning:** Node.js (Robot Dreams course)  
+**🌍 Based in:** Ternopil, Ukraine
+**💻 Coding Since: 2023
+**🎓 Education:** Fullstack Developer at GoIT (Feb 2023 – Dec 2023)
+**📚 Currently Learning:** Node.js (Robot Dreams course)
 
 ---
 
