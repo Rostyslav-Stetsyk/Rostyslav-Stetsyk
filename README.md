@@ -6,7 +6,7 @@
 
 🚀 **About Me**
 
-I'm a passionate Fullstack Developer with a strong focus on frontend development and experience in building various web applications, from CRM systems and chats to landing pages and CMS solutions. I love creating efficient and user-friendly applications and am always open to learning new technologies and improving my skills.
+I'm a Fullstack Developer with a strong emphasis on frontend development and experience building various web applications, from CRM systems and chats to landing pages and CMS solutions. I focus on writing efficient code, using modern technologies, and improving my skills. I’m always learning and aim to create impactful, innovative solutions.
 
 **🌍 Based in:** Ternopil, Ukraine  
 **🎓 Education:** Fullstack Developer at GoIT (Feb 2023 – Dec 2023)  
