@@ -10,7 +10,7 @@ I'm a Fullstack Developer with a strong emphasis on frontend development and exp
 
 **🌍 Based in:** Ternopil, Ukraine  
 **💻 Coding Since:** 2023  
-**🎓 Education:** Fullstack Developer at GoIT (Feb 2023 – Dec 2023)  
+**🎓 Education:** Fullstack Developer at GoIT (Feb 2023 – Dec 2023), Backend development at Robot_dreams (Sep 2024 - Dec 2024)
 **📚 Currently Learning:** Node.js (Robot Dreams course)  
 
 ---
